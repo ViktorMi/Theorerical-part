@@ -1,1 +1,1 @@
-# Postman + 50 quetions
+Theoretical part
